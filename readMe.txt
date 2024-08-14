@@ -4,6 +4,8 @@
 3.javascript
 
 project1 _ 대전선사박물관 : 기획,제작,디자인,퍼블리싱 - 리뉴얼프로젝트 :https://daejeon.go.kr/pre/musEduInfoList.do?eduSeq=1251&pageIndex=1&searchCondition=&searchKeyword=&searchCondition2=&searchCondition3=&menuSeq=
+서버주소등록 
+
 project2 _ 제품형 :디자인,퍼블리싱 -신규제작
 project3 _ 인물형 :디자인,퍼블리싱 -신규제작
 
